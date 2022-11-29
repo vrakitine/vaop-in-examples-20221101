@@ -382,9 +382,12 @@ VAOP применяется на практике, в VAOP community идут о
 Это уже тема для хорошего диплома. Думаю на меня выйдут ребята, кто понял о чем это я и в чем тут научная новизна со всеми из этого вытекающими последстиями. 
 
 Меня тревожит размывание терминологии VAOP:
-> v-agent (va), va-script, va-box, va-engine, action, direction
+> v-agent (va), va-script, va-box, va-tools, va-engine, action, direction
 
 Пионерам применения VAOP в среде ReactJS понравилось вместо "engine" использовать "machine". Хорошо, что хоть модули свои formMachine.js и inputMachine.js положили в папку VAOP, чтобы было понятно в какой парадигме они творят.
+
+Надо еще найти время и написать статью "Introduction of eco-programming paradigm".
+
 
 ## В заключении
 
