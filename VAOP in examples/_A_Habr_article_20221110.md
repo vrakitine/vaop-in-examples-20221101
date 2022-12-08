@@ -1,3 +1,35 @@
+
+Начал записывать серию видео по "расшифровке" того, что хотел сказать в статьях про eco-programming и VAOP
+
+https://drive.google.com/drive/folders/1hekwtPgYiDCV_MsVkJt_CUIz2ZIiwuVs?usp=sharing
+
+Послушайте. Старался каждую запись делать не дольше 10 минут
+
+
+Помогите найти ученика с минимальным опытом в Python, который бы помог рефакторить мою реализацию TTC алгоритма Type-A под новый va-engine, который я недавно сделал в Python. Я все расскажу и покажу как делать. Платить буду тем, что буду учить применению VAOP методологии на практике.
+
+Исходник в паблике 
+https://github.com/vrakitine/eco-programming-vaop-ttc-python/tree/2019-02-01_TTC
+
+
+Готовлю статью на английском в medium.com как перевод https://vc.ru/u/1369846-valeri-rakitine/553964-vvedenie-v-eco-programming-paradigmu-programmirovaniya
+
+Всегда сначала пишу в русскоязычных ресурсах, что бы указать на российский приоретет в моих разработках. Я закончил МИФИ и переехал в Канаду уже в 40 лет и являют продуктом российской школы программирования и не только )
+
+Название статью далеко от оригинальности - Introduction to the eco-programming paradigm
+
+eco-programming - это парадигма программирования, которая исходит из того, что любой программный продукт в перспективе бесполезен и экологически вреден для человечества, кроме такого программного продукта, который можно быстро и не дорого перепрограммировать (изменить, обновить) для работы с новыми данными в новых условиях.
+
+пользуясь deepL.com получаем:
+
+eco-programming is a programming paradigm that assumes that any software product is useless and environmentally harmful to humanity in the long run, except a software product that can be quickly and cheaply reprogrammed (changed, updated) to work with new data under new conditions.
+
+Все остальное в статье не так важно как определение этой парадигмы.
+
+Какие будут у Вас мысли на мои мысли вслух?
+
+Может есть другие ресурсы подобные medium гле можно выложить эту статью?
+
 weblansss@gmail.com  weblansss@gmail.com
 pwd: ronaldinho100  ronaldinho100
 
