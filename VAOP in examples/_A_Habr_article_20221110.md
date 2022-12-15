@@ -1,3 +1,133 @@
+Иллюстратор - Дарья Ракитина @fox.tail.arts
+https://www.instagram.com/fox.tail.arts/?hl=en
+
+
+Eco-programming is a programming paradigm that assumes that any software product is ultimately useless and environmentally harmful to humanity, except for a software product that can be quickly and inexpensively reprogrammed (modified, updated) to work with new data in new conditions.
+
+ecoProgFanClub
+
+Eco-programming is a term that refers to the practice of creating computer programs in a way that is environmentally friendly and sustainable. This can involve using clean, renewable energy sources to power the computers and servers that run the programs, as well as designing the programs themselves to be as efficient and energy-saving as possible. Eco-programming can also involve using programming techniques that reduce waste and minimize the environmental impact of the programs throughout their lifecycle. Overall, the goal of eco-programming is to create computer programs that are not only effective and useful, but also sustainable and environmentally responsible.
+
+Eco-programming is a term that is not widely used or well-defined. It is possible that it refers to programming that is environmentally friendly, or to programming that is focused on environmental conservation or sustainability. However, without more context or information, it is difficult to say for sure what is meant by this term.
+
+Эко-программирование (eco-programming) - это термин, который не широко используется или хорошо определен. Возможно, что это означает программирование, которое дружелюбно к окружающей среде, или программирование, которое сосредоточено на охране окружающей среды и устойчивом развитии. Однако, без дополнительного контекста или информации трудно точно сказать, что имеется в виду.
+
+
+Подправил сайт на notion 
+https://vaop.notion.site/82c7784f41af4739bf1a185fc4e12bbc
+там, вроде, комментировать можно всем с этим линком
+
+
+
+Я рисунки использовал для оформления
+https://vaop.notion.site/82c7784f41af4739bf1a185fc4e12bbc
+Как отметить на сайте что я использовал твои рисунки и ты, надеюсь, не возражаешь?
+
+
+Выложил в ютюб https://youtu.be/oLH9Ac5bL3k
+
+
+Привет
+Я тут начал видяшки на ютюбе выкладывать в своем канале и решил болтать под фоновую музычку, а мне ребята говорят, что ты с этим поосторожней, что могут забанить за использование музыки без разрешения автора.
+У тебя есть что мне разрешить использовать если я очень попрошу ) или есть "бесплатная" фоновая музыка.
+Посмотри на второй минуте, что я добавил и может что-то посоветуешь для этих целей.
+
+https://youtu.be/8uHIl9kbaQw
+
+Я организовал "eco-programing fan club" meeting
+Wednesday, December 14 · 10:00 – 11:00am (Toronto time)
+Google Meet joining info
+Video call link: https://meet.google.com/vnh-ajhh-srm
+
+Предлагаю собираться поболтать не более часа каждую среду в это время
+Если пришлете мне в личку в телеге или на vaop2022@gmail.com свои gmail, то я Вас сразу подключу к встрече в гугл-календаре
+
+!!! Внимание !!! 
+Эта группа для студентов онлайн школы "Canadian school of eco-programming" или тех кому нужна консультация.
+Для обсуждения вопросов теории и практического применения eco-programming парадигмы пишите в группу https://t.me/ecoprog
+
+
+
+
+что вы понимаете под "... адаптировать к агентному программированию"
+В VAOP с va-script(type B) эта задача реализуется. directionDetector там будет самой сложной частью va-engine.
+Проходишь по стороке посимвольно и в зависимость от того, что встретил вырабатываешь DirectionEvent и переходишь, к заданному в va-script, следующему ActionState.
+У меня много подобных примеров реализовано с va-engine на Python 
+Обычная задача парсинга пусть и с целью начать делать Regex библиотеку, как этому парню захотелось.
+Сделав такую Regex библиотеку на va-engine на Python потом несложно перенести на другой язык для которого есть уже есть va-engine.
+
+
+
+Этот канал https://www.youtube.com/@evaclick9532 мы с компаньонами сделали три года назад под онлайн школу в которой я играл роль преподавателя и записал и выложил, то единственное видео. Это канал школы evaclick, а не мой канал. Школа не раскрутилась, а единственное видео на канале раскрутило много интересный вещей ) Новый канал будет посвящен 
+"проповедям" eco-... и VAOP-...
+
+Сейчас время раскручивать школу "Canadian school of eco-programming" или что-то с другим название и в неизвестно какой форме, для обучения народа eco-programming. Время покажет. Я не сторонник спешки в этих делах. Нужно, чтобы собралась сильная команда одержимых ребят для продвижения этой инновационной идеи, а на это нужно Время, Случай и Удача ...
+
+
+Можно попробовать собрать желающих для онлайн разговора членов Фан-клуба Экологичного Программирования ("eco-programing fan club") . Я предлагаю в Google meet, если всех это устроит. По времени, я в Канаде и у меня утром с 10 до 13 восточного побережья можно выкроить часик поговорить в рабочие дни, а по России это +7 и далее, вечер, что тоже, я думаю, многих устроит.
+Запись потом можно, как Вы провильно предложили, обработать и выложить на канале. Веселей будет, чем я там что-то бубню в одиночку )
+
+
+
+Если есть желающие стать членами Фан-клуба Экологичного Программирования скиньте мне в личку свой gmail и я организую встречу в google meet  на следующей неделе.
+Эту группу https://t.me/ecoprog, если нет других предложений, можно считать группой нового "eco-programing fan club"
+
+
+Я уже давно VAOP применяю в проектах в которых работаю или консультирую. VAOP это не совсем FSM. VAOP методология - это взгляд на алгритм не изнутри, а как бы извне. У меня есть хороший пример применения VAOP для алгоритма TTC (https://en.wikipedia.org/wiki/Top_trading_cycle) и там видно, что это не совсем FSM, в привычном подходе, а реализация вычислительного алгоритма, где DirectionEvent определяется в каждом ActionState. Я назвал такой Va-script - type A.
+FSM это больше о том как меняются ActionState в зависимости от внешнего DirectionEvent, что происходит при парсинге входящих потоков и все вокруг этого со всякими там формальными грамматиками (Va-script - type В)
+В статье  https://habr.com/ru/post/554014/ я как раз рассматриваю Va-script - type A и показываю, как можно реализовать любой Алгоритм c ActionState и  Va-script - type A
+Я сейчас работаю над Profile разделом для сайта vaop.dev там можно будет прочитать про все области где уже применялась VAOP методология
+
+Что только не бывает ) Только что, случайно, обнаружил в одном и первых постов в группе https://t.me/ecoprog свое видео, 
+
+https://youtu.be/smEwJfqGmo4
+
+о котором уже забыл. Занятие со слушателем/студентом записано еще до того, как я сформулировал терминалогию VAOP. Очень хороший пример Va-script(type В)
+Сейчас у меня для лекций есть пример этой же задачки в терминологии VAOP
+
+=====
+Всей этой истории с группами уже скоро будет три года
+Всего их три
+Эта, вроде самая первая для теоретиков и обсуждения сложных вопросов ...
+
+https://t.me/ecoprog - была создана для учеников школы - evaclick.ca, которая не поехала и умерла. Сейчас я группу переименовал и она для учеников
+
+Еще есть моя закрытая группа "eco-programming-master-class 2020-12" где я занимаюсь с ребятами в индивидульно - мастер класс, короче 
+
+
+https://www.instagram.com/mikhail_eco_coach/
+
+
+YouTube Channel: https://www.youtube.com/channel/UC9MQSle9llsrlqtmKJwKV3A 
+
+Согласование времени занятий в группе https://t.me/evaclick
+Курс читается в Канадской Школе Экологичного Программирования.
+Автор курса российский программист Валерий Ракитин ( https://www.linkedin.com/in/valrakitine/ ), выпускник МИФИ, последние 25 лет живущий в Канаде.
+
+Читать мои статьи не этой теме:
+
+https://vc.ru/u/1369846-valeri-rakitine/553964-vvedenie-v-eco-programming-paradigmu-programmirovaniya
+
+https://habr.com/ru/post/554014/
+
+https://habr.com/ru/post/680160/
+
+
+-----------------------
+
+weblansss@gmail.com  first old youtube channel 
+ronaldinho100
+
+Мысли вслух / ECO 2022 12 07 2100
+
+ECO 2022 12 07 2100
+Это про то чему мы учим в Канадской Школе Экологичного Программирования
+
+https://youtu.be/8uHIl9kbaQw
+
+
+vaop,eco-programming,finite state machine,fsm,v-agent,va-script,programming,va-engine
+
 
 Начал записывать серию видео по "расшифровке" того, что хотел сказать в статьях про eco-programming и VAOP
 
