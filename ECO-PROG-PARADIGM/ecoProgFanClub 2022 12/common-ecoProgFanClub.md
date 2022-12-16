@@ -1,6 +1,17 @@
 # eco-programing fan club
-## common descriptions ana tags
-eco-programming fan club, vaop,eco-programming,finite state machine, fsm,v-agent,va-script,programming,va-engine, xstate
+## common descriptions and tags
+eco-programming fan club, vaop,eco-programming,finite state machine, fsm,v-agent,va-script, va-engine, xstate
+
+методология программирования 
+конечный автомат 
+eco-programming fan club 
+vaop 
+eco-programming 
+finite state machine 
+low code development 
+v-agent 
+xstate 
+парадигма 
 
 fgvlasov@gmail.com, dponyatov@gmail.com, m.ivanov1225@gmail.com, evstigneevkirilll@gmail.com, tutburatino@gmail.com
 

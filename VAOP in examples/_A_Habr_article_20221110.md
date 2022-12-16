@@ -1,3 +1,38 @@
+
+Hello!
+Group was created to talk about eco-programming & VAOP. You can ask any questions, and get answers here.
+The main languages of the group are Russian and English. Messages in other languages will be deleted.
+Thanks.
+
+YouTube Channel: https://www.youtube.com/channel/UC9MQSle9llsrlqtmKJwKV3A 
+
+The articles:
+https://vc.ru/u/1369846-valeri-rakitine/553964-vvedenie-v-eco-programming-paradigmu-programmirovaniya
+
+https://habr.com/ru/post/554014/
+
+https://habr.com/ru/post/680160/
+
+
+________
+
+Привет!
+Группа создана для общения по вопросам eco-programming & VAOP. Можно задавать любые вопросы, и даже получать на них ответы.
+Основные языки группы: Русский и Английский.  Сообщения на других языках будут уничтожаться.
+
+YouTube Channel: https://www.youtube.com/channel/UC9MQSle9llsrlqtmKJwKV3A 
+
+Публикации по теме eco-programming & VAOP:
+https://vc.ru/u/1369846-valeri-rakitine/553964-vvedenie-v-eco-programming-paradigmu-programmirovaniya
+
+https://habr.com/ru/post/554014/
+
+https://habr.com/ru/post/680160/
+
+
+
+
+
 Иллюстратор - Дарья Ракитина @fox.tail.arts
 https://www.instagram.com/fox.tail.arts/?hl=en
 
