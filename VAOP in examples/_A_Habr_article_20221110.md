@@ -1,4 +1,21 @@
 
+Привет
+
+Ребята намечают несколько статей про VAOP и я думаю, что нам надо согласовать тэги
+Я использовал такие
+vaop,
+eco-programming,
+finite state machine,
+fsm,
+v-agent,
+va-script,
+va-engine
+потом еще добавил xstate
+
+Есть дополнения или изменения?
+Может v-agent,va-script,va-engine - перебор ) и не надо включать. Я не спец в этих делах
+
+
 Hello!
 Group was created to talk about eco-programming & VAOP. You can ask any questions, and get answers here.
 The main languages of the group are Russian and English. Messages in other languages will be deleted.
