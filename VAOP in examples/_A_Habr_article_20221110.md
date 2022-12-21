@@ -1,3 +1,38 @@
+Мой старший сын, Олег, прислал мне уже второе видео этого парня
+
+https://youtu.be/flWqmB4UaBA
+
+тоже впрягаются в телегу "eco-programming paradigm" сами, пока, того не зная )
+
+
+
+Вот пример va-script Type A в реальном проекте TTC
+https://github.com/vrakitine/eco-programming-vaop-ttc-python/blob/2019-02-01_TTC/TTC/data/fsm/states_matrix_02.json
+
+это я писал еще до эры VAOP и использовал s_... как Action и v_... как Direction
+
+
+
+
+Привет 
+Как мы и договаривались на прошлой встрече, я начал учебный VAOP проект на ReactJS.
+Изучаю реакт с нуля уже пятый день )
+Решил написать простенький калькулятор (va-calculator) c применением VAOP методологии программирования.
+Код в моем паблике
+https://github.com/vrakitine/my-app/tree/va-calculator_r1
+
+Если бы это было не в реакте, то все бы работало, но реакт следит за происходящим с переменными и их меняет и все работает "непредсказуемо" неправильно.
+Думаю, что знатоки реакта могут все подправить. va-script, function getAction(direction) и Actions я написал.
+
+Завтра на митинге обсудим:
+
+'eco-programing fan club' meeting [(GMT-05:00) Eastern Time - Toronto]
+Wednesday, December 21 · 12:01 – 13:01
+Google Meet joining info
+Video call link: https://meet.google.com/jek-pwoq-bwy
+Or dial: ‪(CA) +1 437-781-4585‬ PIN: ‪567 110 547 0132‬#
+More phone numbers: https://tel.meet/jek-pwoq-bwy?pin=5671105470132
+
 
 Привет
 
