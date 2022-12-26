@@ -1,5 +1,7 @@
 #VAOP в примерах на ReactJS
 
+// https://youtube.com/shorts/xbDUdGfPRQY?feature=share
+
 План статьи такой:
 <ul>
     <li>
