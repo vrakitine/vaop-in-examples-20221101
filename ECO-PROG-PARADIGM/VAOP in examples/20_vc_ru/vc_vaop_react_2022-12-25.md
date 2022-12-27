@@ -5,7 +5,7 @@
 План статьи такой:
 <ol>
     <li>
-    Сразу дам ссылку на работающий пример, вернее, на va-calculator https://va-calculator.vercel.app/
+    Сразу дам ссылку на работающий пример, вернее, на va-calculator-v1.0 https://va-calculator.vercel.app/
     </li>
     <li>
     Ссылка на открытый источник кода там есть, но приведу его и в статье: https://github.com/vrakitine/my-app <br/>
@@ -30,7 +30,7 @@
 
 О, чуть не забыл про линк на "Статьи и полезный ресурсы" по теме VAOP и eco-programming парадигме программирования: https://vaop.notion.site/d0822e13fd914c3a94da01a97805ca1d 
 
-Продвинутые в ReactJS, обычно, сразу замечают, что такой подход можно использовать при реализиции и других приложений. Будут идеи пишите. Помогу. Понятно, что VAOP - это Mетодология программирования и также как и OOP (Object Oriented Programming) может быть реализована в любых программых средах.
+Продвинутые в ReactJS, обычно, сразу замечают, что такой подход можно использовать при реализиции и других приложений. Будут идеи пишите. Помогу. Понятно, что VAOP - это Mетодология Программирования и также, как и OOP (Object Oriented Programming), может быть реализована в любых программых средах.
 
 Меня всегда можно найти здесь: https://vaop.notion.site/3de5d8b45f8a4966a39a974f22a93c04
 
@@ -42,4 +42,7 @@
 https://vaop.notion.site/vc_vaop_react_2022-12-25-97c92cbf425e43018629856c835423b8
 
 Предлагаю теги:
-reactjs, react, v-agent, vaop, eco-programming, fsm, xstate
+
+vaop, eco-programming, finite state machine, fsm, v-agent ,va-script, va-engine, xstate  
+
+Model Driven Software Engineering or MDE
