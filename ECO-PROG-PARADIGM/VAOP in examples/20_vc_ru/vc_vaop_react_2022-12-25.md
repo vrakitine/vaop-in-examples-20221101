@@ -1,6 +1,6 @@
-# VAOP в примерах: va-calculator-v1.0 на ReactJS
+# VAOP в примерах: ReactJS : Mini va-calculator-v1.0
 
-// https://youtube.com/shorts/xbDUdGfPRQY?feature=share
+// https://www.youtube.com/shorts/xbDUdGfPRQY
 
 План статьи такой:
 <ol>
